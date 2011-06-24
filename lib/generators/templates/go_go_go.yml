@@ -1,0 +1,4 @@
+ftp_host: ip/name of host
+ftp_username: ftp username
+ftp_password: password for the same
+application_path_in_server: folder path to where uploading happens
